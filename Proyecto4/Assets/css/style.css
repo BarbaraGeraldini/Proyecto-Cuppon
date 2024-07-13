@@ -1,0 +1,60 @@
+.bg-verde{
+    background-color: #28A745;
+}
+body{
+	Font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img{
+	width: 82px;
+}
+
+.card{
+	margin: 0 auto;
+}
+
+.texto-secundario{
+	font-weight: 80;
+	color: #707070;
+	margin: 0;
+}
+
+.texto-secundario-2 {
+	font-size: 13px;
+	color: #707070;
+	font-weight: 80;
+}
+.texto-verde{
+	font-size: 20px;
+	font-weight: 62px;
+    color: #28A745;
+}
+.precios{
+	text-align: right;
+}
+
+form{
+	margin: 0 auto;
+}
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+footer{
+	text-align: center;
+}
+
+footer img{
+	width: 82px;
+	padding-top: 30px;
+}
+
+footer p{
+	color:#707070;
+	font-weight:100;
+}
+
+@media (max-width: 992px) {
+}
